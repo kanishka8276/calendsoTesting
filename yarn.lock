@@ -859,15 +859,15 @@
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@panva/asn1.js/-/asn1.js-1.0.0.tgz#dd55ae7b8129e02049f009408b97c61ccf9032f6"
 
-"@prisma/client@^2.30.2":
-  version "2.30.3"
-  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-2.30.3.tgz#49c1015e2cec26a44b20c62eb2fd738cb0bb043b"
+"@prisma/client@^3.11.0":
+  version "3.11.0"
+  resolved "https://registry.yarnpkg.com/@prisma/client/-/client-3.11.0.tgz#6aa05165b641578c74816aaa15b389e0062318ee"
   dependencies:
-    "@prisma/engines-version" "2.30.1-2.b8c35d44de987a9691890b3ddf3e2e7effb9bf20"
+    "@prisma/engines-version" "3.11.0-48.b371888aaf8f51357c7457d836b86d12da91658b"
 
-"@prisma/engines-version@2.30.1-2.b8c35d44de987a9691890b3ddf3e2e7effb9bf20":
-  version "2.30.1-2.b8c35d44de987a9691890b3ddf3e2e7effb9bf20"
-  resolved "https://registry.yarnpkg.com/@prisma/engines-version/-/engines-version-2.30.1-2.b8c35d44de987a9691890b3ddf3e2e7effb9bf20.tgz#d5ef55c92beeba56e52bba12b703af0bfd30530d"
+"@prisma/engines-version@3.11.0-48.b371888aaf8f51357c7457d836b86d12da91658b":
+  version "3.11.0-48.b371888aaf8f51357c7457d836b86d12da91658b"
+  resolved "https://registry.yarnpkg.com/@prisma/engines-version/-/engines-version-3.11.0-48.b371888aaf8f51357c7457d836b86d12da91658b.tgz#808ab9636184e4a0b2bf79016d6ed72c4a1ed54f"
 
 "@prisma/engines@2.30.1-2.b8c35d44de987a9691890b3ddf3e2e7effb9bf20":
   version "2.30.1-2.b8c35d44de987a9691890b3ddf3e2e7effb9bf20"
